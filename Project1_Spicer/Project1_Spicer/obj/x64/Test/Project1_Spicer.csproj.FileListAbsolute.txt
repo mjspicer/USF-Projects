@@ -1,0 +1,8 @@
+C:\Users\MSp1c\source\repos\Project1_Spicer\Project1_Spicer\bin\x64\Test\Project1_Spicer.exe.config
+C:\Users\MSp1c\source\repos\Project1_Spicer\Project1_Spicer\bin\x64\Test\Project1_Spicer.exe
+C:\Users\MSp1c\source\repos\Project1_Spicer\Project1_Spicer\obj\x64\Test\Project1_Spicer.Dice_Roller_Form.resources
+C:\Users\MSp1c\source\repos\Project1_Spicer\Project1_Spicer\obj\x64\Test\Project1_Spicer.Double_Dice_Roller_Form.resources
+C:\Users\MSp1c\source\repos\Project1_Spicer\Project1_Spicer\obj\x64\Test\Project1_Spicer.Properties.Resources.resources
+C:\Users\MSp1c\source\repos\Project1_Spicer\Project1_Spicer\obj\x64\Test\Project1_Spicer.csproj.GenerateResource.cache
+C:\Users\MSp1c\source\repos\Project1_Spicer\Project1_Spicer\obj\x64\Test\Project1_Spicer.csproj.CoreCompileInputs.cache
+C:\Users\MSp1c\source\repos\Project1_Spicer\Project1_Spicer\obj\x64\Test\Project1_Spicer.exe
